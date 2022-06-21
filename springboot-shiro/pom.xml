@@ -63,7 +63,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.44</version>	<!-- mysql版本需要定义，默认的版本识别不到，加载不到驱动类 -->
+			<version>8.0.28</version>	<!-- mysql版本需要定义，默认的版本识别不到，加载不到驱动类 -->
 		</dependency>
 		<!-- springboot的mybatis启动器 -->
 		<dependency>
